@@ -1,1 +1,0 @@
-lFX Trader Android project
